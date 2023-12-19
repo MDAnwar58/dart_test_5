@@ -17,6 +17,6 @@ void main() {
   applyPriceDiscount(fruits, 10);
 
   // Display fruit details after applying the discount
-  print('\nFruit Details After Applying 10% Discount:\n');
+  print('\nFruit Details After Applying 10% Discounts:\n');
   displayFruitDetails(fruits);
 }
